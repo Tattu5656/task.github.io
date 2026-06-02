@@ -17,3 +17,7 @@ h3 {
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
 }
+a {
+  color: var(--theme-color);
+  text-decoration: none;
+}
